@@ -11,7 +11,8 @@
 
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/AshwinN.png)  
 
-🔗 **[TryHackMe Profile: AshwinN](https://tryhackme.com/p/AshwinN)**  
+🔗 [View My TryHackMe Profile](https://tryhackme.com/p/AshwinN)
+
 
 ## 🏅 About Me  
 I am **Ashwin N**, the **#1 globally ranked cybersecurity specialist** on TryHackMe.  
