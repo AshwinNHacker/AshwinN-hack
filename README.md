@@ -20,7 +20,7 @@ With expertise in **penetration testing, CTFs, and ethical hacking**, I continuo
 
 ### 🔥 **Key Achievements**  
 - 🏆 **Rank #1 on TryHackMe**  
-- 🔥 **9,812+ points** in cybersecurity challenges  
+- 🔥 **26161+ points** in cybersecurity challenges  
 - ⏳ **606+ days streak** in security training  
 - 🏅 **166 badges earned** in ethical hacking  
 
