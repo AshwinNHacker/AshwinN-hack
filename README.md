@@ -23,7 +23,4 @@ With expertise in **penetration testing, CTFs, and ethical hacking**, I continuo
 - 💼 **LinkedIn**: www.linkedin.com/in/ashwin-n-1-1-1-  
 
 
-(https://github-readme-stats.vercel.app/api?username=AshwinN-hack&show_icons=true&theme=dark)
-
-
 🚀 *Follow my journey as I explore ethical hacking and cybersecurity challenges!*
