@@ -16,7 +16,7 @@ With expertise in **penetration testing, CTFs, and ethical hacking**, I continuo
 - 🏆 **Rank #1 on TryHackMe**  
 - 🔥 **26161+ points** in cybersecurity challenges  
 - ⏳ **606+ days streak** in security training  
-- 🏅 **166 badges earned** in ethical hacking  
+- 🏅 **166 badges earned** in ethical hacking 
 
 ## 📜 Connect with Me  
 - 🐦 **Twitter**: https://x.com/Ashwin_1337?t=FuUH1I1EMsUDPls_ahelNw&s=09  
