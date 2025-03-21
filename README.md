@@ -1,10 +1,6 @@
 I am Ashwin N, the #1 globally ranked cybersecurity specialist on TryHackMe, with expertise in penetration testing, ethical hacking, and CTF challenges.
 # tryhackme  
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/AshwinN.png)  
-
-🔗 [TryHackMe Profile: AshwinN](https://tryhackme.com/p/AshwinN)  
-
 # 🏆 TryHackMe - Ashwin N 🚀  
 
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/AshwinN.png)  
